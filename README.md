@@ -1,4 +1,5 @@
-### Hi there 👋
+### A generalist with wide-ranging business, technology, product development, and cloud computing experience.
+
 
 <!--
 **sjison/sjison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
